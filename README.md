@@ -1,2 +1,2 @@
 # Alexa-Skill-Mornings
-Public Repo placeholder (code will be posted soon)
+Node.js Alexa Skill, using Google Map API and Google Cal API
